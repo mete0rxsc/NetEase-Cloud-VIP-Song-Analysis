@@ -14,6 +14,10 @@
 4. 100%开源，欢迎star和fork  
 5. 界面简单，功能单一，无多余功能  
 
+### 更新日志
+**网易云VIP歌曲解析v1.2 By.Mete0r** - 未上传GitHub，此版本更新了双击显示信息复制信息  
+**网易云VIP歌曲解析v2.0 By.Mete0r** - 已推送GitHub，此版本更新了音乐在线播放，右下角时间显示，下方歌词显示  
+
 ## 使用方法  
 1. clone此仓库  
 2. 打开**网易云VIP歌曲解析v1.0 By.Mete0r.py**文件，并去  [https://api.nsmao.net/](https://api.nsmao.net/)  获取你的APIKey  
