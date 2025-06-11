@@ -1,2 +1,4 @@
 # 忽略所有 .git 目录
 .git/
+
+ffmpeg-2024-09-26-git-f43916e217-full_build/
